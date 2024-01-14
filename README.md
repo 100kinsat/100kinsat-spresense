@@ -1,0 +1,2 @@
+# 100kinsat-spresense
+Spresenseを使った100kinSATのデータ置き場
