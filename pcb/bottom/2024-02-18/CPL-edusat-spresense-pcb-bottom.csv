@@ -1,0 +1,6 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+BT1,Battery_Cell,BH-411-4P24,136.15,-76.0,-90.0,top
+BT2,Battery_Cell,BH-411-4P24,136.35,-126.0,90.0,top
+BT3,Battery_Cell,BH-411-4P24,162.7,-76.0,-90.0,top
+BT4,Battery_Cell,BH-411-4P24,162.9,-126.0,90.0,top
+J1,Conn_01x02,PinHeader_1x02_P2.54mm_Vertical,120.5,-79.9,0.0,top

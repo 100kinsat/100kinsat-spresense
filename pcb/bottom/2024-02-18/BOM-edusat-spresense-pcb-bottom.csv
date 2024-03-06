@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC
+Battery_Cell,BT4,BH-411-4P24,
+Battery_Cell,BT3,BH-411-4P24,
+Battery_Cell,BT2,BH-411-4P24,
+Conn_01x02,J1,PinHeader_1x02_P2.54mm_Vertical,
+Battery_Cell,BT1,BH-411-4P24,
