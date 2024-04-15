@@ -5,38 +5,37 @@ void setup(){
 
   // ド
   tone(
-    sp,      // 出力するピン
-    261.626, // 周波数[Hz]
-    150      // 出力する時間[ms]
+    sp, // 出力するピン
+    261 // 周波数[Hz]
   );
-  delay(150);
+  delay(150); // 出力する時間[ms]
 
   // レ
-  tone(sp, 293.665, 150);
+  tone(sp, 293);
   delay(150);
 
   // ミ
-  tone(sp, 329.628, 150);
+  tone(sp, 329);
   delay(150);
 
   // ファ
-  tone(sp, 349.228, 150);
+  tone(sp, 349);
   delay(150);
 
   // ソ
-  tone(sp, 391.995, 150);
+  tone(sp, 391);
   delay(150);
 
   // ラ
-  tone(sp, 440.000, 150);
+  tone(sp, 440);
   delay(150);
 
   // シ
-  tone(sp, 493.883, 150);
+  tone(sp, 493);
   delay(150);
 
   // ド
-  tone(sp, 261.626 * 2, 150);
+  tone(sp, 261 * 2);
   delay(150);
 
   noTone(sp);
